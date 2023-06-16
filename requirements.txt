@@ -1,0 +1,15 @@
+asgiref==3.7.2
+async-timeout==4.0.2
+certifi==2023.5.7
+chardet==4.0.0
+charset-normalizer==3.1.0
+Deprecated==1.2.14
+Django==4.2.2
+huey==2.4.5
+idna==2.10
+packaging==23.1
+redis==4.5.5
+requests==2.31.0
+sqlparse==0.4.4
+urllib3==1.26.16
+wrapt==1.15.0
